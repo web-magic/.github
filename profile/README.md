@@ -160,13 +160,13 @@ Digital Ocean, OSS code, Paytriot, Stripe, PayPal, First Data, Tap, Authorize.Ne
   
 <br/>  
 
-<div align="center">Our website: https://web-magic.space/</div>  
+<div align="center">Our website: https://webmagic.agency/</div>  
 
 
 Or You can send us e-mail here:
 
 <div>
-<a href="mailto:yevhen.saienko@webmagic.agency" target="_blank">
+<a href="mailto:info@web-magic.space" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>  
