@@ -4,6 +4,29 @@
   
 ---
 # **<div align="center">WebMagic Team</div>**  
+## 👋 Welcome to the WebMagic Agency GitHub!
+
+🚀 At WebMagic Agency, we specialize in providing cutting-edge custom web development solutions tailored to your specific needs. Whether you're launching a new web application or enhancing an existing one, our team of experts is dedicated to helping you achieve your goals and maximize your business growth.
+
+💼 In addition to our custom web development services, we offer a range of specialized solutions catered specifically to the [3PL and Logistics](https://webmagic.agency/industries/3pl-and-logistic) industry. Our services include:
+
+**Warehouse Management Systems (WMS) Integration**: Seamlessly integrate your WMS with your e-commerce platforms for efficient order processing, inventory management, and fulfillment.
+
+**Transportation Management Systems (TMS) Development**: Develop custom TMS solutions to optimize route planning, shipment tracking, and carrier management for streamlined logistics operations.
+
+**Inventory Management Solutions**: Implement advanced inventory management systems to track stock levels, manage warehouses, and automate replenishment processes for improved efficiency and accuracy.
+
+**Supply Chain Visibility Platforms**: Build supply chain visibility platforms to provide real-time insights into shipment status, inventory levels, and delivery ETA, enabling better decision-making and enhanced customer service.
+
+**Custom Reporting and Analytics**: Develop customized reporting and analytics tools to monitor key performance indicators (KPIs), analyze data trends, and identify opportunities for operational improvement and cost reduction.
+
+**Integration with Third-Party Services**: Integrate your logistics systems with third party services such as ERP systems, CRM platforms, and carrier APIs to streamline data exchange and enhance overall system functionality.
+
+🔧 Whether you're looking to streamline your warehouse operations, optimize your transportation logistics, or enhance your supply chain visibility, we have the expertise and experience to deliver tailored solutions that meet your unique business requirements.
+
+📈 If you're interested in learning more about [our services](https://webmagic.agency/services) or collaborating on a project, feel free [to reach out to us](https://webmagic.agency)!
+<br/><br/>
+<br/><br/>
 
 ### 𝖢𝗎𝗌𝗍𝗈𝗆 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍, Framework Laravel, Angular, API, AI, GPT, Full-Stack, VueJS, PHP, Start-ups, Amazon SP-API, MWS  
   
