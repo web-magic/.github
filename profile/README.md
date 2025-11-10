@@ -28,7 +28,7 @@ _We prioritize maintainability, clarity, and performance at every stage._
 ## In-house products
 _Developed and maintained by the WebMagic engineering team._  
 *(code private)*  
-- **WordWave** — AI video-to-text transcription tool  
+- [WordWave](https://github.com/web-magic/wordwave) — AI video-to-text transcription tool
 - **CargoMagic** — cargo volume planning & optimization MVP  
 - **RouteMagic** — mobile route and delivery operations  
 
