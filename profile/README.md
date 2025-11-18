@@ -30,7 +30,7 @@ _Developed and maintained by the WebMagic engineering team._
 *(code private)*  
 - [WordWave](https://github.com/web-magic/wordwave) — AI video-to-text transcription tool
 - [CargoMagic](https://github.com/web-magic/cargomagic) — cargo volume planning and optimization MVP  
-- **RouteMagic** — mobile route and delivery operations  
+- [RouteMagic](https://github.com/web-magic/routemagic) — mobile route and delivery operations  
 
 
 
